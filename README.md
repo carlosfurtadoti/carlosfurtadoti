@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Carlos Furtado, full stack engineer at Descomplica!
+## I'm Carlos Furtado, Software Engineer at Descomplica!
 
 <div align="center">
   <a href="https://github.com/carlosfurtadoti">
