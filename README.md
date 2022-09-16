@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 <!--
@@ -5,17 +7,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ## I'm Carlos Furtado, Software Engineer at Descomplica!
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/carlosfurtadoti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosfurtadoti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -35,3 +38,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/carlosfurtadoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlos@carlosfurtado.com.br"><img src="https://img.shields.io/badge/-%20Email-lightgrey?style=for-the-badge" target="_blank"></a>
 </div>
+
+
+  ![Snake animation](https://github.com/carlosfurtadoti/carlosfurtadoti/blob/output/github-contribution-grid-snake.svg)
