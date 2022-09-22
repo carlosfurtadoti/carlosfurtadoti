@@ -36,8 +36,5 @@ Here are some ideas to get you started:
  
 <div align="center">   
   <a href="https://www.linkedin.com/in/carlosfurtadoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carlos@carlosfurtado.com.br"><img src="https://img.shields.io/badge/-%20Email-lightgrey?style=for-the-badge" target="_blank"></a>
+  <a href = "mailto:contato@carlosfurtado.com.br"><img src="https://img.shields.io/badge/-%20Email-lightgrey?style=for-the-badge" target="_blank"></a>
 </div>
-
-
-  ![Snake animation](https://github.com/carlosfurtadoti/carlosfurtadoti/blob/output/github-contribution-grid-snake.svg)
