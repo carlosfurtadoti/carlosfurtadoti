@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/carlosfurtadoti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosfurtadoti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
