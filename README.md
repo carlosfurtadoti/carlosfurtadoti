@@ -1,35 +1,18 @@
-<div align="center">
-
-### Hi there 👋
-
-<!--
-**carlosfurtadoti/carlosfurtadoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
-## I'm Carlos Furtado, Software Engineer at Descomplica!
+<div align="center" style="display: inline_block"><br>
+  <a href="https://www.carlosfurtado.com.br" target="_blank" rel="noreferrer">
+    <img align="center" alt="carlosfurtado-site" height="auto" width="100%" src="https://www.carlosfurtado.com.br/assets/card-image.png">
+  </a>
 
 </div>
 
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div align="center">   
-  <a href="https://www.linkedin.com/in/carlosfurtadoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@carlosfurtado.com.br"><img src="https://img.shields.io/badge/-%20Email-lightgrey?style=for-the-badge" target="_blank"></a>
+<div align="center"><br>
+  <a href="https://www.linkedin.com/in/carlosfurtadoti" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlosfurtado-linkedin">
+  </a>
+  <a href="https://telegram.me/carlosfurtadoti" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="carlosfurtado-telegram">
+  </a>
+  <a href="mailto:contato@carlosfurtado.com.br" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-%20 @Email-lightgrey?style=for-the-badge" alt="carlosfurtado-mailto">
+  </a>
 </div>
